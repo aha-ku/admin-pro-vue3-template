@@ -1,5 +1,69 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
-  </div>
+  <PageContainer :title="$route.meta.title">
+    <template #tags>
+      <a-tag>tag1</a-tag>
+      <a-tag color="pink">tag2</a-tag>
+    </template>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+    <p>fsfs</p>
+  </PageContainer>
 </template>
